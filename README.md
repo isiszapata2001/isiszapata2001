@@ -14,18 +14,18 @@ ______
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinicolle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isiszapata2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isinicolle&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isiszapata2001&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ______
 <p align="center"> 
   Visitante numero:  <br>
-  <img src="https://profile-counter.glitch.me/isinicolle/count.svg" />
+  <img src="https://profile-counter.glitch.me/isiszapata2001/count.svg" />
   <br>
 
 </p>
