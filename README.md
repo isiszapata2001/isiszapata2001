@@ -1,26 +1,5 @@
 ## Holis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div align="center"><img src="./images/Welcome.gif"></div>
-
-<h1 align="center">Bienvenid@ a mi perfil de GitHub</h1>
-<br>
- 
-
-#### Honduras 🗺
-<!--### <div><p align="center"><a href="https://isinicolle.github.io/Portfolio/">Check my Portfolio page</a></p></div>-->
-
-#### 👩‍💻 Estudiante de Ingenieria en Ciencias de la Computación  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-______
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isiszapata2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Isis's github stats](https://github-readme-stats.vercel.app/api?username=isiszapata2001&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 ______
 <p align="center"> 
@@ -32,5 +11,5 @@ ______
 
 <br>
 
-<div align="center"> <strong>Contacta conmigo: </strong> <br>
- &nbsp;<a href="https://www.linkedin.com/in/isis-zapata/"><img src="images/linkedin-box-fill.png" width="20" height="20"></a>&nbsp;<a href="mailto:<nowiki>isis.zapata.hn@gmail.com?subject="Hola Isis Zapata"><img src="images/mail-fill.png" width="20" height="21"></a></div>
+<div align="center"> <strong>Me mude al siguiente perfil: </strong> <br>
+ &nbsp;<a href="https://github.com/isinicolle/isinicolle">GitHub Nuevo</a></div>
